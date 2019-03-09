@@ -1,0 +1,6 @@
+(load-theme 'wombat t)
+(menu-bar-mode 0)
+(require 'linum)
+(global-linum-mode 1)
+(setq linum-format "%3d  ")
+(column-number-mode 1)

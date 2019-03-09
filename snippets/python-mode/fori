@@ -1,0 +1,7 @@
+# -*- mode: python -*-
+# name: for i in range(...): ...
+# key: fori
+# group : control structure
+# --
+for ${i} in range(${N}):
+    $0

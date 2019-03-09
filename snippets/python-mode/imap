@@ -1,0 +1,6 @@
+# -*- mode: python -*-
+# name: map(int, ...)
+# key: imap
+# group: aoj
+# --
+map(int, input().split())$0
