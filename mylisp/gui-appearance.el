@@ -31,8 +31,7 @@
 (setq minor-mode-alist (list))
 
 ;; color theme
-(setq solarized-path "~/.emacs.d/themes/emacs-color-theme-solarized")
-(add-to-list 'custom-theme-load-path solarized-path)
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (setq solarized-scale-org-headlines nil)
 (setq solarized-height-minus-1 1)
 (setq solarized-height-plus-1 1)

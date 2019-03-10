@@ -4,10 +4,12 @@
   '(
     company
     company-jedi
+    dash
     easy-repeat
     evil
     exec-path-from-shell
     markdown-mode
+    solarized-theme
     undo-tree
     yasnippet
     yasnippet-snippets
