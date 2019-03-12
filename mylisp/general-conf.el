@@ -51,3 +51,4 @@
 ;; org
 (setq org-hide-leading-stars t)
 (setq org-fontify-emphasized-text nil)
+(setq org-startup-folded nil)

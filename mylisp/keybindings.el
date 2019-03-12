@@ -2,7 +2,7 @@
 (global-set-key (kbd "C-h") 'delete-backward-char)
 
 ;; mark set
-(global-set-key (kbd "C-j") 'set-mark-command)
+(global-set-key (kbd "C-;") 'set-mark-command)
 
 ;; folding
 (global-set-key (kbd "C-c /") 'hs-toggle-hiding)
