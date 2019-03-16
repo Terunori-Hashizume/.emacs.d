@@ -1,7 +1,6 @@
-# -*- mode: python -*-
+# -*- mode: snippet -*-
 # name: for i in range(...): ...
 # key: fori
-# group : control structure
 # --
-for ${i} in range(${N}):
+for ${1:i} in range(${2:N}):
     $0
