@@ -37,3 +37,4 @@
 (define-key yas-minor-mode-map (kbd "C-x y n") 'yas-new-snippet)
 (define-key yas-minor-mode-map (kbd "C-x y v") 'yas-visit-snippet-file)
 (yas-global-mode 1)
+(add-to-list 'company-backends 'company-yasnippet)
